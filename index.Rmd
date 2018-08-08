@@ -1,0 +1,34 @@
+--- 
+title: "Equilibrium Game - Teaching Materials"
+author: "Christian Neuwirth"
+date: "`r Sys.Date()`"
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: Literature.bib
+biblio-style: apalike
+#link-citations: yes
+github-repo: "tbd"
+description: "This is a summary of complementary teaching materials for the educational game Equilibrium."
+---
+
+# Preface {-}
+
+EQUILIBRIUM is an educational game developed to familiarize high school students and students at universities with basic concepts of systems thinking and causal thinking. I suggest embedding the game in teaching subjects related to systems science like geography, ecology or biology.
+The provided materials cover a full lesson:
+
+1. Students are introduced to basic concepts of causality, feedback and its formalization using Causal Loop Diagrams *(see Chapter \@ref(briefing))*
+2. Students play the game
+3. Students are provided with the key concepts and theories like environmental awareness, dynamic equilibrium, stability conditions and delay in systems *(see Chapter \@ref(debriefing))*
+
+Alternatively, the materials may be used as a flipped classroom activity where students play the game at home.
+
+Among the many relevant aspects of system thinking, the game is particularly dedicated to address the following skills [see also @richmond2001introduction]:
+
+* *Causal Thinking*: Definition and conditions of causality (e.g. direction and polarity of causality).
+* *Big Picture Thinking*: Filtering of essential causal relations and parameters
+* *Structural Thinking*: Interpretation of system structure and behavior
+* *Communication of Systems Structure*: Creation and interpretation of Causal Loop Diagrams
+
+
