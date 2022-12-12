@@ -3,14 +3,5 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">UNIGIS Salzburg: Academic Work</a></li>
-      after: |
-        <li><a href="https://www.unigis.ac.at" target="blank">UNIGIS Salzburg</a></li>
-    download: ["pdf", "epub"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+        <li><a href="https://www.dropbox.com/sh/rm2ew3ej79opv0z/AAAThaM5Uk9QjDIwoBtb3lCDa?dl=0">Equilibrium Game</a></li>
+
