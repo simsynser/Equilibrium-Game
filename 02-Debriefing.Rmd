@@ -45,4 +45,4 @@ text(20, 600, labels = "Policy \n is implemented")
 arrows(120, 700, 120, 400)
 text(120, 800, labels = "System is in balance \n after 100 years")
 ```
-##Literature
+## Literature

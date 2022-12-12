@@ -8,7 +8,6 @@ output: bookdown::gitbook
 documentclass: book
 bibliography: Literature.bib
 biblio-style: apalike
-#link-citations: yes
 github-repo: "tbd"
 description: "This is a summary of complementary teaching materials for the educational game Equilibrium."
 ---
